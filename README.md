@@ -1,6 +1,6 @@
 ### Hi, I am Kritika!
 
-💻 Aspiring Software Developer<br>📊 Data Science & Machine Learning Enthusiast<br>🎓 BCA Student | Tribhuvan University<br>🌱 Currently learning Machine Learning<br>🚀 Building projects to turn ideas into real-world solutions
+💻 Aspiring Software Developer
 
 
 ## 🌐 Socials:
